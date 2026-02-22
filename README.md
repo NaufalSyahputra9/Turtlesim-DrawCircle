@@ -54,7 +54,7 @@ draw_circle/
    source install/setup.bash
    ```
 
-![Workflow](https://github.com/NaufalSyahputra9/Turtlesim-DrawCircle/blob/main/source/run_node.webm?raw=true)
+![Demo video](https://github.com/NaufalSyahputra9/Turtlesim-DrawCircle/blob/main/source/run_node.webm?raw=true)
 
 3. **Jalankan Node**:
    Gunakan perintah berikut untuk menjalankan node `pub_draw`:
@@ -63,7 +63,7 @@ draw_circle/
    ros2 run draw_circle pub_draw
    ```
 
-![Workflow](https://github.com/NaufalSyahputra9/Turtlesim-DrawCircle/blob/main/source/set_param.webm?raw=true)
+![Demo video](https://github.com/NaufalSyahputra9/Turtlesim-DrawCircle/blob/main/source/set_param.webm?raw=true)
 
 4. **Atur Parameter**:
    Dapat mengatur parameter `radius` untuk mengontrol ukuran lingkaran. Contohnya:
